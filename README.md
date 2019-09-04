@@ -1,6 +1,6 @@
 <h1>Sub LA - The Web App for LAUSD Substitute Teachers <h1>
 <h3>Technologies: Java, Spring Boot, MySQL, MaterializeCSS, BCrypt, Ubuntu <h3>
-  <h3>Click <a href="http://3.19.59.165/">here</a> to view the live site <a href="http://www.eastlayouth.com/"></h3>
+  <h3>Click <a href="http://3.19.59.165/">here</a> to view the live site</h3>
   <br>
 <p> A social network for LAUSD Substitute teachers where they can find the best job assignments, in the best schools LAUSD. Teachers can post, comment on, and obtain information on job assigments. Teachers can also create, rate, and review schools <p>
 <br>
